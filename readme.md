@@ -14,3 +14,6 @@ feature/about-company
 
 git branch - добавить ветку
 git checkout [develop] - переключиться на ветку
+git pull [rep_link] [branch_name] - внести изменения из гитхаба
+git merge - слияние веток через теминал
+git branch -d [branch_name] удаление ветки
